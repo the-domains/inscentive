@@ -1,0 +1,14 @@
+layout_spectrum: 0.1712564795743674
+typography_spectrum: 0.8365458173211664
+color:
+  brandStrength: 0.72976228967309
+  lightness: 0.6512472163885832
+  saturation: 0.15022797952406108
+  rhythmicContrast: 0.6958703009877354
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: InScentive
