@@ -1,16 +1,16 @@
-layout_spectrum: 0.1712564795743674
-typography_spectrum: 0.8365458173211664
+layout_spectrum: 0.6677062939852476
+typography_spectrum: 0.6610951547045261
 color:
-  brandStrength: 0.72976228967309
-  lightness: 0.6512472163885832
-  saturation: 0.15022797952406108
-  rhythmicContrast: 0.6958703009877354
+  brandStrength: 0.5829487573355436
+  lightness: 0.7122714999131858
+  saturation: 0.29859275999478996
+  rhythmicContrast: 0.6652040823828429
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
 name: InScentive
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/34672b1d-0f74-426f-816d-3e1fc8c9a3de.png
